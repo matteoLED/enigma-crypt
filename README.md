@@ -16,3 +16,13 @@ Ce projet implémente une machine Enigma simple en Python pour chiffrer et déch
 
 ```bash
 python3 enigma.py
+
+
+
+## Utilisation
+
+Exécutez le script enigma.py et suivez les instructions pour entrer le message à chiffrer.
+Le message chiffré sera affiché à l'écran.
+Configuration personnalisée
+Vous pouvez personnaliser la configuration de la machine Enigma en modifiant les rotors et les réflecteurs dans le script enigma.py. Consultez la section "Exemple d'utilisation" dans le script pour comprendre comment configurer la machine avec vos propres paramètres.
+
