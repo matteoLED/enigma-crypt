@@ -16,8 +16,7 @@ Ce projet implémente une machine Enigma simple en Python pour chiffrer et déch
 
 ```bash
 python3 enigma.py
-
-
+```
 
 ## Utilisation
 
